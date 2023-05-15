@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+}
+
+
+.carrusel{
+    width: 100%;
+    height: 40%;
+}
+.toxcard{
+    width: 18vw;
+    background-color: rgba(255, 255, 255, 0.637);
+    box-shadow: 9px 13px 14px -4px rgba(0,0,0,0.32);
+
+}
+
+#carruselindicador{
+    display: none;
+}
+.body-card{
+    
+}
