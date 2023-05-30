@@ -42,12 +42,20 @@ h1 h2 h3 h4 h5 h6{
 .botonesnavbar{
     background-color: rgb(50, 146, 202);
     width: 90px;
-    height: 30px;
-    
+    height: 33px;
+    text-align: center;
     box-shadow: 5px 5px 3px 0px rgba(0,0,0,0.75);
     -webkit-box-shadow: 5px 5px 3px 0px rgba(0,0,0,0.75);
     -moz-box-shadow: 5px 5px 3px 0px rgba(0,0,0,0.75);
 }
 .botonSearchnavbar{
     width: 50px;
+    background-color: green;
+    box-shadow: 5px 5px 3px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 5px 5px 3px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 5px 5px 3px 0px rgba(0,0,0,0.75);
 }
+.inputSearchNavbar{ 
+    box-shadow: 5px 5px 3px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 5px 5px 3px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 5px 5px 3px 0px rgba(0,0,0,0.75);}
